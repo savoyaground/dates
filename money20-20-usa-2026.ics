@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Savoya//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:money20-20-usa-2026@savoya.com
+DTSTAMP:20260902T190000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261022
+SUMMARY:SAVOYA | Money20/20 USA
+LOCATION:Las Vegas\, NV
+DESCRIPTION:Expect increased travel demand and tighter transportation availability surrounding this event. Plan ahead with Savoya to protect your travelers' schedules and reduce last-minute coordination.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
