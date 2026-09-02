@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Savoya//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:art-basel-paris-2026@savoya.com
+DTSTAMP:20260902T190000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:SAVOYA | Art Basel Paris
+LOCATION:Paris\, France
+DESCRIPTION:Expect increased travel demand and tighter transportation availability surrounding this event. Plan ahead with Savoya to protect your travelers' schedules and reduce last-minute coordination. Book executive ground transportation: https://core.savoya.net/reservations/create/retail
+URL:https://core.savoya.net/reservations/create/retail
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
